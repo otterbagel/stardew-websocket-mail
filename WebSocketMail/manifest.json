@@ -1,0 +1,16 @@
+{
+    "Name": "WebSocketMail",
+    "Author": "OtterBagel",
+    "Version": "0.0.1",
+    "Description": "Connects to a websocket and creates mail for the player.",
+    "UniqueID": "OtterBagel.WebSocketMail",
+    "EntryDll": "WebSocketMail.dll",
+    "MinimumApiVersion": "3.0.0",
+    "UpdateKeys": [],
+    "Dependencies": [
+        {
+            "UniqueID": "DIGUS.MailFrameworkMod",
+            "MinimumVersion": "1.12.2"
+        }
+    ]
+}
